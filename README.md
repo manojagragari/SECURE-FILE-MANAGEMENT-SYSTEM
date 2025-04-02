@@ -26,3 +26,10 @@ GitHub itself uses Git, a distributed version control system, to manage files wi
 
 If you’re looking for a specific file management system on GitHub, you could search for terms like “file-management-system” or “file-manager” in the GitHub search bar. Many projects include README files with setup instructions and feature lists. Want me to dive deeper into a particular aspect, like how to find one or what a specific system does? Just let me know!
 FOR CSE316 PRJECT
+Tiny File Manager: A lightweight, single-file PHP-based manager for basic file operations (upload, delete, edit) with a simple web interface.
+FileGator: A multi-user, self-hosted web application with advanced features like drag-and-drop uploads, chunked file transfers, and user permissions.
+Sigma File Manager: A modern, open-source file explorer for desktop use, focusing on speed and smart features like global search.
+Custom Scripts: Projects like PowerShell or Python scripts that automate file sorting or cleanup tasks on your local system.
+GitHub’s Role in File Management
+GitHub itself uses Git, a distributed version control system, to manage files within repositories. It’s not a traditional file manager but excels at tracking changes to files (code, documents, etc.) over time. Features like Git LFS (Large File Storage) extend its capability to handle bigger files, making it a powerful tool for developers managing project assets.
+
